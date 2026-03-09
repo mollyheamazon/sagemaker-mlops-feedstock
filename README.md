@@ -151,6 +151,3 @@ Feedstock Maintainers
 * [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
 * [@nargokul](https://github.com/nargokul/)
 
-
-<!-- dummy commit to enable rerendering -->
-
